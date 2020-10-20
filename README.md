@@ -1,7 +1,7 @@
 # generator
 加减法生成神器
 
-#使用  
+# 使用  
  ./Generator.exe num 
  
 # 说明  
